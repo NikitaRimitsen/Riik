@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Riik>
+    <nimi>Estonia</nimi>
+    <elanikearv>1 331 125</elanikearv>
+    <pindala>45 228</pindala>
+        <maakond>
+            <nimi>Lääne-Virumaa</nimi>
+            <elanikearv>58 856</elanikearv>
+            <pindala>3 696</pindala>
+            <linn>
+                <nimi>Tapa</nimi>
+                <elanikearv>5 433</elanikearv>
+                <pindala>17,32</pindala>
+            </linn>
+            <linn>
+                <nimi>Rakvere</nimi>
+                <elanikearv>15 526</elanikearv>
+                <pindala>10,75</pindala>
+            </linn>
+            <linn>
+                <nimi>Kunda</nimi>
+                <elanikearv> 3 059</elanikearv>
+                <pindala>9,85</pindala>
+            </linn>
+        </maakond>
+        <maakond>
+            <nimi>Tartumaa</nimi>
+            <elanikearv>145 550</elanikearv>
+            <pindala>2 993</pindala>
+            <linn>
+                <nimi>Tartu</nimi>
+                <elanikearv>93 124</elanikearv>
+                <pindala>38,8</pindala>
+            </linn>
+        </maakond>
+        <maakond>
+            <nimi>Harjumaa</nimi>
+            <elanikearv>582 556</elanikearv>
+            <pindala>4 333</pindala>
+            <linn>
+                <nimi>Tallinn</nimi>
+                <elanikearv>426 538</elanikearv>
+                <pindala>159,3</pindala>
+            </linn>
+            <linn>
+                <nimi>Maardu</nimi>
+                <elanikearv>15 077</elanikearv>
+                <pindala>22,76</pindala>
+            </linn>
+            <linn>
+                <nimi>Keila</nimi>
+                <elanikearv>9 695</elanikearv>
+                <pindala>11,25</pindala>
+            </linn>
+        </maakond>
+</Riik>
